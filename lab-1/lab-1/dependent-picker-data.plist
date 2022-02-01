@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>Mammals</string>
+        <key>albums</key>
+        <array>
+            <string>bears</string>
+            <string>cats</string>
+            <string>dogs</string>
+            <string>elephants</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Reptiles</string>
+        <key>albums</key>
+        <array>
+            <string>Komodo dragons</string>
+            <string>Crocodiles</string>
+            <string>Sea Turtles</string>
+            <string>Cobras</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Insects</string>
+        <key>albums</key>
+        <array>
+            <string>Lady Bugs</string>
+            <string>Butterflies</string>
+            <string>stick bugs</string>
+            <string>dragon flies</string>
+            <string>ants</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amphibians</string>
+        <key>albums</key>
+        <array>
+            <string>frogs</string>
+            <string>toads</string>
+            <string>salamanders</string>
+            <string>newts</string>
+            <string>caecilians</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aquatic Vertebrates</string>
+        <key>albums</key>
+        <array>
+            <string>Eels</string>
+            <string>Carps</string>
+            <string>catfish</string>
+            <string>perches</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Mythic Animals</string>
+        <key>albums</key>
+        <array>
+            <string>Unicorns</string>
+            <string>Dragonx</string>
+            <string>pheonixes</string>
+            <string>fairies</string>
+            <string>monsters</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Birds</string>
+        <key>albums</key>
+        <array>
+            <string>eagles</string>
+            <string>wrens</string>
+            <string>Robbins</string>
+            <string>hawkes</string>
+            <string>falcons</string>
+        </array>
+    </dict>
+</array>
+</plist>
