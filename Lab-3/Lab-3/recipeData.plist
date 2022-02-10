@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+<dict>
+    <key>dish</key>
+    <string>Bananna Bread</string>
+    <key>ingredients</key>
+    <array>
+        <string>Flour</string>
+        <string>Sugar</string>
+        <string>Eggs</string>
+        <string>Baking Powder</string>
+        <string>Cinnamon</string>
+        <string>Banannas</string>
+        <string>Butter</string>
+        <string>Walnuts</string>
+        
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>Feta Pasta</string>
+    <key>ingredients</key>
+    <array>
+        <string>Feta</string>
+        <string>Penne</string>
+        <string>Tomato Paste</string>
+        <string>Basil</string>
+        <string>Parmesean</string>
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>Greek Salad</string>
+    <key>ingredients</key>
+    <array>
+        <string>Olives</string>
+        <string>Feta</string>
+        <string>Tomatos</string>
+        <string>Cucumbers</string>
+        <string>Romaine</string>
+        <string>Lemon Juice</string>
+        <string>Olive Oil</string>
+        <string>Salt and Pepper</string>
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>Earl Grey Sugar Cookies</string>
+    <key>ingredients</key>
+    <array>
+        <string>Flour</string>
+        <string>Sugar</string>
+        <string>Butter</string>
+        <string>Earl Grey Tea</string>
+        <string>Orange Zest</string>
+        <string>Salt</string>
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>Chocolate Covered Pretzels</string>
+    <key>ingredients</key>
+    <array>
+        <string>Chocolate</string>
+        <string>Pretzels</string>
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>Cappucino</string>
+    <key>ingredients</key>
+    <array>
+        <string>Espresso</string>
+        <string>Steamed Milk</string>
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>Spring Roll</string>
+    <key>ingredients</key>
+    <array>
+        <string>Shrimp</string>
+        <string>Rice Paper</string>
+        <string>Peanut Sauce</string>
+        <string>Cucumber</string>
+        <string>Kimchi</string>
+        <string>Onion</string>
+        <string>Bell Pepper</string>
+        <string>Avocado</string>
+        <string>Carrot</string>
+    </array>
+</dict>
+
+<dict>
+    <key>dish</key>
+    <string>SourDough</string>
+    <key>ingredients</key>
+    <array>
+        <string>Starter</string>
+        <string>Bread Flour</string>
+        <string>Corn Meal</string>
+        <string>Salt</string>
+        <string>Water</string>
+    </array>
+</dict>
+
+
+
+</array>
+</plist>
